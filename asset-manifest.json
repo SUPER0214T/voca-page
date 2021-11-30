@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/voca-page/static/css/main.243f645d.chunk.css",
-    "main.js": "/voca-page/static/js/main.980da4f0.chunk.js",
-    "main.js.map": "/voca-page/static/js/main.980da4f0.chunk.js.map",
+    "main.js": "/voca-page/static/js/main.9b7b734a.chunk.js",
+    "main.js.map": "/voca-page/static/js/main.9b7b734a.chunk.js.map",
     "runtime-main.js": "/voca-page/static/js/runtime-main.25f117d1.js",
     "runtime-main.js.map": "/voca-page/static/js/runtime-main.25f117d1.js.map",
-    "static/js/2.04cd644a.chunk.js": "/voca-page/static/js/2.04cd644a.chunk.js",
-    "static/js/2.04cd644a.chunk.js.map": "/voca-page/static/js/2.04cd644a.chunk.js.map",
+    "static/js/2.84776a4b.chunk.js": "/voca-page/static/js/2.84776a4b.chunk.js",
+    "static/js/2.84776a4b.chunk.js.map": "/voca-page/static/js/2.84776a4b.chunk.js.map",
     "static/js/3.83da20d3.chunk.js": "/voca-page/static/js/3.83da20d3.chunk.js",
     "static/js/3.83da20d3.chunk.js.map": "/voca-page/static/js/3.83da20d3.chunk.js.map",
     "index.html": "/voca-page/index.html",
     "static/css/main.243f645d.chunk.css.map": "/voca-page/static/css/main.243f645d.chunk.css.map",
-    "static/js/2.04cd644a.chunk.js.LICENSE.txt": "/voca-page/static/js/2.04cd644a.chunk.js.LICENSE.txt"
+    "static/js/2.84776a4b.chunk.js.LICENSE.txt": "/voca-page/static/js/2.84776a4b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.25f117d1.js",
-    "static/js/2.04cd644a.chunk.js",
+    "static/js/2.84776a4b.chunk.js",
     "static/css/main.243f645d.chunk.css",
-    "static/js/main.980da4f0.chunk.js"
+    "static/js/main.9b7b734a.chunk.js"
   ]
 }
