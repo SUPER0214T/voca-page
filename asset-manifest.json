@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/voca-page/static/css/main.243f645d.chunk.css",
+    "main.js": "/voca-page/static/js/main.1dc2ee81.chunk.js",
+    "main.js.map": "/voca-page/static/js/main.1dc2ee81.chunk.js.map",
+    "runtime-main.js": "/voca-page/static/js/runtime-main.25f117d1.js",
+    "runtime-main.js.map": "/voca-page/static/js/runtime-main.25f117d1.js.map",
+    "static/js/2.04cd644a.chunk.js": "/voca-page/static/js/2.04cd644a.chunk.js",
+    "static/js/2.04cd644a.chunk.js.map": "/voca-page/static/js/2.04cd644a.chunk.js.map",
+    "static/js/3.83da20d3.chunk.js": "/voca-page/static/js/3.83da20d3.chunk.js",
+    "static/js/3.83da20d3.chunk.js.map": "/voca-page/static/js/3.83da20d3.chunk.js.map",
+    "index.html": "/voca-page/index.html",
+    "static/css/main.243f645d.chunk.css.map": "/voca-page/static/css/main.243f645d.chunk.css.map",
+    "static/js/2.04cd644a.chunk.js.LICENSE.txt": "/voca-page/static/js/2.04cd644a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25f117d1.js",
+    "static/js/2.04cd644a.chunk.js",
+    "static/css/main.243f645d.chunk.css",
+    "static/js/main.1dc2ee81.chunk.js"
+  ]
+}
